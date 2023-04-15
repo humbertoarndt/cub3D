@@ -26,7 +26,7 @@ Compile the program using `make`
 make
 ```
 
-Run the program with the following arguments, the maps can be found at `test`directory.
+Run the program with the following arguments, the maps can be found at `test` directory.
 
 ```sh
 ./cub3D <path_to_map.cub>
@@ -36,5 +36,5 @@ If `<path_to_map.cub>` is valid the program will run and the map will be renderi
 
 ## References
 
-[Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html)
+[Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html)  
 [Make Your Own Raycaster Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA)
